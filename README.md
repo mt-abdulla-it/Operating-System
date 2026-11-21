@@ -1,5 +1,14 @@
 # 🖥️ x86_64 Bare-Metal Operating System Kernel
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-x86__64-informational?style=for-the-badge&logo=cpu" />
+  <img src="https://img.shields.io/badge/Language-Assembly%20%2F%20C-orange?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Release-v1.0.0-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" />
+</p>
+
+
 A lightweight 64-bit operating system kernel implemented in C and Assembly, targeting the x86_64 architecture with Multiboot2 specification compliance.
 
 ---
